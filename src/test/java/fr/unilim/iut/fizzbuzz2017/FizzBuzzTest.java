@@ -3,7 +3,6 @@ package fr.unilim.iut.fizzbuzz2017;
 import static org.junit.Assert.*;
 
 
-
 import org.junit.Test;
 
 public class FizzBuzzTest {

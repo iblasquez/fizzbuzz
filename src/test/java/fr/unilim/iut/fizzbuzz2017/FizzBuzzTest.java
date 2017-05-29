@@ -45,7 +45,7 @@ public class FizzBuzzTest {
 	public void test_should_display_FizzBuzz_when_MultipleOf15(){
 		
 		FizzBuzz FizzBuzz= new FizzBuzz();
-		String result = FizzBuzz.jouer(15);
+		String result = FizzBuzz.jouer(14);
 		assertEquals(result,"Fizz Buzz");
 	}
 
